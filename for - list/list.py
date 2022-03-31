@@ -19,3 +19,8 @@ for i in range(10):
         name2.append(j)
 print(name)
 print(name2)
+
+
+l = [1, 2, 3, 4, 5]
+for i in l:
+    print(i ** 2)
